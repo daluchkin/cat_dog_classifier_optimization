@@ -31,7 +31,7 @@ This project was conducted as an **experimental study** to better understand how
 
 Runtime of the model training per iteration:
 
-+ **Kaggle GPU P100:** ~10 hours.
++ **Kaggle GPU P100:** ~9 hours.
 + **MacBook Pro 2018 Intel CPU:** $\infty$ hours 🤷‍♂️
 
 ## Technologies Used
