@@ -23,9 +23,18 @@ This project is a personal experiment aimed at improving a convolutional neural 
 
 This project was conducted as an **experimental study** to better understand how Bayesian optimization influences CNN training and performance.
 
+## Experiment Results
+
+| Experiment Type                          | Accuracy  |
+|------------------------------------------|-----------|
+| Manual CNN Creation                      | **0.8255** |
+| Hyperparameters Optimization             | **0.8381** |
+| Layers & Hyperparameters Optimization    | **0.8614** |
+
+
 ## Notebook/Code
 
-- [`cat_dog_classifier_optimization.ipynb`](./cat_dog_classifier_optimization.ipynb)
+- [`cat-dog-classifier-optimization.ipynb`](./cat-dog-classifier-optimization.ipynb)
 
 ## Runtime
 
